@@ -137,6 +137,14 @@ app-top-bar h1 {
   background-color: #EEEEEE;
 }
 
+.dot {
+  height: 6px;
+  width: 6px;
+  background-color: black;
+  border-radius: 100%;
+  display: inline-block;
+}
+
 
 /*
 Copyright Google LLC. All Rights Reserved.
